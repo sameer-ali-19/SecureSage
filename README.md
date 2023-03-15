@@ -1,2 +1,2 @@
 # web_project
-Web programming project for learning purpose
+Web based project to build an online furniture store.
