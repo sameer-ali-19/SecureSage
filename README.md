@@ -1,2 +1,2 @@
-# web_project
-Web based project to build an online furniture store.
+# SecureSage
+Web-based project to build a security awareness and training platform.
